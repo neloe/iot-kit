@@ -3,6 +3,10 @@
 		{
 			"name": "builtin-led",
 			"path": "builtin-led"
+		},
+		{
+			"name": "external-led",
+			"path": "external-led"
 		}
 	],
 	"settings": {}
