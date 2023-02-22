@@ -7,6 +7,14 @@
 		{
 			"name": "external-led",
 			"path": "external-led"
+		},
+		{
+			"name": "external-led-bitcount",
+			"path": "external-led-bitcount"
+		},
+		{
+			"name": "photocell",
+			"path": "photocell"
 		}
 	],
 	"settings": {}
