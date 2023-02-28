@@ -15,6 +15,10 @@
 		{
 			"name": "photocell",
 			"path": "photocell"
+		},
+		{
+			"name": "dht20-temp-humidity-i2c",
+			"path": "dht20-temp-humidity-i2c"
 		}
 	],
 	"settings": {}
