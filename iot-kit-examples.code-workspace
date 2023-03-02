@@ -1,28 +1,15 @@
 {
 	"folders": [
 		{
-			"name": "builtin-led",
-			"path": "builtin-led"
-		},
-		{
-			"name": "external-led",
-			"path": "external-led"
-		},
-		{
-			"name": "external-led-bitcount",
-			"path": "external-led-bitcount"
-		},
-		{
-			"name": "photocell",
-			"path": "photocell"
-		},
-		{
-			"name": "dht20-temp-humidity-i2c",
-			"path": "dht20-temp-humidity-i2c"
+			"path": "."
 		},
 		{
 			"name": "mcp9700-temp",
 			"path": "mcp9700-temp"
+		},
+		{
+			"name": "pdvp8104-photocell",
+			"path": "pdvp8104-photocell"
 		}
 	],
 	"settings": {}

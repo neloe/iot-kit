@@ -9,7 +9,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  // TODO: Find appropriate resistor value that gives interesting range of values
-  Serial.println(analogRead(AIN_PIN));
+  // 4.7k seems to give some kind of cool result.  Maybe play around with the trimpots?
+  Serial.println(analogReadMilliVolts(AIN_PIN));
   delay(1000);
 }
