@@ -10,6 +10,10 @@
 		{
 			"name": "pdvp8104-photocell",
 			"path": "pdvp8104-photocell"
+		},
+		{
+			"name": "buzzer-control",
+			"path": "buzzer-control"
 		}
 	],
 	"settings": {}
