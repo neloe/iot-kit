@@ -19,6 +19,10 @@
 		{
 			"name": "dht20-temp-humidity-i2c",
 			"path": "dht20-temp-humidity-i2c"
+		},
+		{
+			"name": "mcp9700-temp",
+			"path": "mcp9700-temp"
 		}
 	],
 	"settings": {}
