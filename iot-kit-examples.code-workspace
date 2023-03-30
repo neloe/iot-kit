@@ -18,6 +18,10 @@
 		{
 			"name": "analog-outputs",
 			"path": "analog-outputs"
+		},
+		{
+			"name": "builtin-led",
+			"path": "builtin-led"
 		}
 	],
 	"settings": {}
