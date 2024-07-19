@@ -2,12 +2,11 @@
 
 This contains sample code and hookup information to control and use the parts of the IOT kit
 
-## Sketches ToDo
+In general, wiring will be color coded:
+* Red: Power (check for 3v3 or VCC)
+* Black: Ground
+* Yellow: Data (I2C, from Qwiic)
+* Blue: Clock (I2c, from Qwiic)
 
-* Multi I2C (DHT20 and OLED)
-* ~~Temp Sensor (MCP-9700E)~~
-* ~~Find resistor values for sparkfun photocell~~
-* ~~Buzzer~~
-* ~~Buzzer with trimpot (analog input/digital output)~~
+Other wire colors will be chosen to differentiate connections
 
-Rename sketches since using PlatformIO
