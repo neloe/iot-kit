@@ -8,6 +8,7 @@
 
 ## Sample Code
 ```cpp
+// led_external_blinky.ino
 #define LEDPIN 3
 
 bool is_on = true;
@@ -43,3 +44,4 @@ void loop() {
   // wait a half second so we can see the blinky goodness
   delay(500);
 }
+```
