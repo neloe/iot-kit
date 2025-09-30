@@ -1,4 +1,4 @@
-# uttons and I2C: AHT20, OLED
+# Button Polling and I2C: AHT20, OLED
 
 ## Schematic
 ![Circuit Schematic 1: button, oled, temp/humidity directly wired](schematic.png)
