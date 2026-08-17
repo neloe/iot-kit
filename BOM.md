@@ -2,7 +2,38 @@
 
 Links here will help you access data sheets and information about the various components in your kit
 
-Kit version: _Fall 2023_
+## Kit version: _Fall 2026_
+
+Vendor only specfied as where parts were sourced.
+Compatible/comparable parts can be found from a variety of suppliers, and any preference should not be inferred from the below list.
+The sourcing goals for the full class' kits were to lower total costs by combining orders and having as few shipping fees as possible.
+
+### Vendor: Mouser
+| Mouser # | Mfr. # | Manufacturer | Qty | URL | Description |
+| -------- | ------ | ------------ | --- | --- | ----------- |
+|356-ESP32C3DVKTM1N4X| ESP32-C3-DevKitM-1-N4X | Espressif | 1 | [Mouser](https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-C3-DevKitM-1-N4X?qs=olJun0bQHM8KNNDD%252BFT48A%3D%3D&countryCode=US&currencyCode=USD) | Multiprotocol Development Tools ESP32-C3-dEVkITm-1|
+|603-MF0204FTE52-220R|MF0204FTE52-220R|YAGEO| 5 | [Mouser](https://www.mouser.com/en/ProductDetail/YAGEO/MF0204FTE52-220R?qs=KUIzHt%2Fe91kCuEizhMq%2FaA%3D%3D&countryCode=US&currencyCode=USD) | Metal Film Resistor - Through Hole (220 ohm) |
+|708-CFM14JT10K0 |708-CFM14JT10K0 | SEI Stackpole | 3 | [Mouser] (https://www.mouser.com/en/ProductDetail/SEI-Stackpole/CFM14JT10K0?qs=FESYatJ8odLB39bSkBhvLw%3D%3D&countryCode=US&currencyCode=USD) | Carbon Film Resistors - Through Hole 10KOhms 1/4W 5% Mini Carbon |
+|179-TS026650BK160LCR | TS02-66-50-BK-160-LCR-D | Same Sky | 3 | [Mouser](https://www.mouser.com/en/ProductDetail/Same-Sky/TS02-66-50-BK-160-LCR-D?qs=A6eO%252BMLsxmQR1YJvC7vxdQ%3D%3D&countryCode=US&currencyCode=USD) | Tactile Switches 6 x 6 mm, 5 mm Act Height, 160 gf, Black, Long Crimped, Through Hole, SPST |
+|810-PS1240P02BT |PS1240P02BT | TDK | 1 | [Mouser](https://www.mouser.com/en/ProductDetail/TDK/PS1240P02BT?qs=d7g9p1yFhWaZXSY9MjKMkw%3D%3D&countryCode=US&currencyCode=USD) | Buzzers & Audio Indicators - Board Mount Round 12.2mmx6.5mm 4kHz Vin=3V |
+|846-PDV-P8103| PDV-P8103 | Advanced Photonix | 1 | [Mouser](https://www.mouser.com/en/ProductDetail/Advanced-Photonix/PDV-P8103?qs=tlsG%2FOw5FFiMv0vIkPUhuA%3D%3D&countryCode=US&currencyCode=USD) | Photoresistors Ceramic Photocell |
+|630-HDSP-513A | HDSP-513A | Broadcom/Avago | 1 | [Mouser](https://www.mouser.com/en/ProductDetail/Broadcom-Avago/HDSP-513A?qs=pQfy5%252BKCabIcw5BGtxIW9w%3D%3D&countryCode=US&currencyCode=USD) | LED Displays & Accessories Red 643nm 0.56in 7 Segment |
+
+### Vendor: Amazon
+
+| Part (IC Search Term) | Qty | URL |
+| ---- | --- | --- |
+| Container | 1 | [Amazon](https://www.amazon.com/IRIS-Container-Organizing-Journaling-Stationery/dp/B00FZVPWTI)|
+| Breadboard | 1 | [Amazon](https://www.amazon.com/DEYUE-Solderless-Prototype-Breadboard-Points/dp/B07NVWR495)|
+| LEDs | 5/color | [Amazon](https://www.amazon.com/DiCUNO-450pcs-Colors-Emitting-Assorted/dp/B073QMYKDM) |
+| Temp/Humidity Sensor (AHT20) | 1 | [Amazon](https://www.amazon.com/UMLIFE-Precision-Temperature-Measurement-Communication/dp/B0C6F5G1TF)|
+| OLED Display (SSD1306) | 1 | [Amazon](https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5?th=1) |
+| Jumper Wires | 1 | [Amazon](https://www.amazon.com/California-JOS-Breadboard-Optional-Multicolored/dp/B0BRTJQZRD?th=1) |
+| Trimpot | 1 | [Amazon](https://www.amazon.com/Potentiometer-Breadboard-Resistors-Assortment-Compatible/dp/B09L5MGNFZ) |
+| USB Cable | 1 | [Amazon](https://www.amazon.com/Cable-Matters-2-Pack-Micro-USB/dp/B0DNYGD6HH?crid=198YG9CJM4OF9) |
+
+
+## Kit version: _Fall 2023_
 
 | Mouser #             | Mfr. #             | Manufacturer               | Qty | URL                                                                                                        | Description                                                                                                         |
 | -------------------- | ------------------ | -------------------------- | --- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
